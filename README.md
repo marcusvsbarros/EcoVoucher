@@ -20,3 +20,12 @@ Inicialmente, foi elaborado o seguinte caso de uso.
 Para melhor entendimento do funcionamento do site, foi elaborado o seguinte dagrama de classes.
 
 ![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Claesses%20EcoVoucher.jpg).
+
+# Tecnologias Utilizadas
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                    
+          
+          
+          
