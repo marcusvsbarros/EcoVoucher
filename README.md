@@ -13,7 +13,7 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
 
 Inicialmente, foi elaborado o seguinte caso de uso.
 
-
+![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Caso%20de%20Uso%20EcoVoucher.jpg).
 
 # Diagrama de Classes
 
