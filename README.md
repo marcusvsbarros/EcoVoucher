@@ -6,7 +6,6 @@ Apresentar uma solução economicamente viável para auxiliar no combate à fome
 O EcoVoucher irá transformar a maneira de gerar valor à população através da reciclagem. Seu funcionamento é simples como demonstrado abaixo:
 O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pontos esses que estarão distribuídos de maneira sistemática pela cidade, deposita o resíduo no equipamento, o equipamento realiza a análise do tipo e quantidade de cada item e, após computar, classificar e pesar os itens, devolve, em forma de crédito o valor computado. Os créditos poderão ser utilizados para comprar passagens de ônibus, comprar itens básicos de cesta de alimentos ou, até mesmo, abater em tributos municipais.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
-
-
+> [!NOTE]
+> Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos no projeto.
+> 
