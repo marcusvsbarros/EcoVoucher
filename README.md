@@ -21,6 +21,21 @@ Para melhor entendimento do funcionamento do site, foi elaborado o seguinte dagr
 
 ![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Claesses%20EcoVoucher.jpg).
 
+## Apresentação
+Confira a seguir uma demonstração das funcionalidades do site:
+<details>
+   <summary>Cadastro</summary>
+    <div align="center">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Tela-de-Cadastro-Ecovoucher.gif">
+    </div>
+</details>
+<details>
+   <summary>Login</summary>
+    <div align="center">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Tela-de-Login-EcoVoucher.gif">
+    </div>
+</details>
+
 # Tecnologias Utilizadas
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
