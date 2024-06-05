@@ -20,7 +20,7 @@ Os requisitos (tanto do usuário como da Fatec) abrangidos por essa sprint são:
 - **RF 03:** Página - Contato
 - **RF 04:** Página - Login
 - **RF 05:** Página - Sobre
-- **RNF 01:** Utilizar JavaScript, HTML e CSS.
+- **RNF 01:** Utilizar JavaScript, HTML, CSS e Angular.
 - **RNF 02:** Utilizar banco de daos NoSQL
 - **RNF 04:** Responsividade
 - **RNF 05:** Acessibilidade
@@ -48,27 +48,25 @@ Este requisito se trata de uma página web com botões interativos e dinâmicos 
 
 Este requisito se trata de uma página web com informações sobre o que é a pegada ecológica, um formulário para o usuário realizar o input de seus dados e o retorno da pontuação da pegada ecólogica desse usuário, bem como um comparativo dos países referência no quesito.
 
+### RF 03: Página - Contato
+
+Este requisito se trata de uma página web com informações de contato com o time Ecovoucher, um formulário para o usuário realizar o input de seus dados e, assim que possível, o time entrará em contato para sanar a dúvida do usuário.
+
+### RF 04: Página - Login
+
+Este requisito se trata de uma página web com o objetivo de o usuário conseguir logar-se no site e visualuzar seus dados, pontos Ecovoucher, diminuição da pegada ecológica, e também editar seus dados ou exluir seu usuário.
+
+### RF 05: Página - Sobre
+
+Este requisito se trata de uma página web com o objetivo de informar o usuário sobre o projeto, como surgiu a ideia e os requisitos atendidos.
+
     
 → [Voltar ao topo](#topo)
 
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
-Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema do desafio. 
-- O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
-    
-<div align="center">
-    
-![Burndown Chart](https://user-images.githubusercontent.com/69374340/163472803-4912e725-f05c-4cdc-84bc-29ae2953f401.png)
-</div>
-    
-<span id="links">
-    
-## :link: Links úteis
+Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em três frentes: frontend e backend e documentação, onde, na primeira sprint, o time de frontend ficou responsável pela confecção das páginas, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema e o time de documentação ficou responsável por atender os prazos, registrar as execuções dos outros dois times e organizar a documentação necessária, não gerando desgaste para a equipe. 
+- O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontram registrados na ferramenta DevOps-Boards, aonde foram inseridos os dados referente as Sprints, Épicos, Backlogs e Features.
 
-- Site do projeto: [https://help-duck.netlify.app/](https://help-duck.netlify.app/) (usuário exemplo - email: `user@gmail.com`, senha: `1357`)
-- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
-  - Repositório do site: [clique aqui para acessar "help-duck-web"](https://github.com/The-Bugger-Ducks/help-duck-web)
-  - Microsserviço de autenticação: [clique aqui para acessar "help-duck-authentication"](https://github.com/The-Bugger-Ducks/help-duck-authentication)
-  - Microsserviço de usuários: [clique aqui para acessar "help-duck-users-microservice"](https://github.com/The-Bugger-Ducks/help-duck-users-microservice)
-  - Microsserviço de chamados: [clique aqui para acessar "help-duck-requests"](https://github.com/The-Bugger-Ducks/help-duck-requests)
+    
