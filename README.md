@@ -40,9 +40,9 @@ Confira a seguir uma demonstração das funcionalidades do site:
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 27/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
-| 02 | 10/06/2024 |  Em Andamento    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
-| 03 | 05/06/2022 |  Em Andamento   | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
+| 01 | 27/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/readme.md) |
+| 02 | 10/06/2024 |  Em Andamento    | [ver relatório]() |
+| 03 | 05/06/2022 |  Em Andamento   | [ver relatório]() |
 
 # Tecnologias Utilizadas
 
