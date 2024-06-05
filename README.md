@@ -44,6 +44,26 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 02 | 10/06/2024 |  Em Andamento    | [ver relatório]() |
 | 03 | 05/06/2022 |  Em Andamento   | [ver relatório]() |
 
+## Backlogs & User Stories
+    
+<div align="center">
+### Requisitos Funcionais    
+![product backlog](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg)
+### Requisitos Não Funcionais
+![sprint backlog](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg)
+### User Stories
+![user stories](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/User%20Stories.jpg)
+</div>
+  
+→ [Voltar ao topo](#topo)
+
+<span id="prototipo">
+
+## Protótipo & Documentação
+Como parte do planejamento do projeto foram criados wireframes e mockups para idealização do layout, que, ao ser validado pelo cliente, foram aplicados em um protótipo construído em React, possibilitando a interação do usuário com a interface (vide [entrega da primeira sprint](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/readme.md)).
+    
+Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação desses microsserviços, um dos requisitos não funcionais desejados para o projeto, foi praticada durante todo o desenvolvimento através de ferramentas como o Swagger ou readmes dos repositórios, mapeando todos os endpoints de cada API criada relacionada ao projeto, enquanto que para outras documentações do projeto como um todo, tais como os fluxos de dados, diagramas de classe e de uso, modelagem de banco de dados e arquiteturas foram condensadas na pasta documentação [link](https://github.com/Eng-FelipeA/EcoVoucher/tree/main/Documenta%C3%A7%C3%A3o).
+
 # Tecnologias Utilizadas
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
