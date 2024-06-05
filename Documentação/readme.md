@@ -65,9 +65,11 @@ Este requisito se trata de uma página web com o objetivo de informar o usuário
 
 <span id="metricas">
     
-## :chart_with_upwards_trend: Métricas do time
+## Métricas do time
 Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em três frentes: frontend e backend e documentação, onde, na primeira sprint, o time de frontend ficou responsável pela confecção das páginas, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema e o time de documentação ficou responsável por atender os prazos, registrar as execuções dos outros dois times e organizar a documentação necessária, não gerando desgaste para a equipe. 
 - O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontram registrados na ferramenta DevOps-Boards, aonde foram inseridos os dados referente as Sprints, Épicos, Backlogs e Features.
+
+### Sprint 1
 
 <div align="center">
     
@@ -75,5 +77,25 @@ Em prol de um melhor aproveitamento das habilidades de cada integrante, o time f
 </div>
     
 <span id="links">
+
+### Features
+
+<div align="center">
+    
+![Features](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/DevOps%20Features.jpg)
+</div>
+    
+<span id="links">
+
+### Épicos
+
+<div align="center">
+    
+![Épicos](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/DevOps%20%C3%89picos.jpg)
+</div>
+    
+<span id="links">
+
+
 
     
