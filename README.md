@@ -45,15 +45,22 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 03 | 05/06/2022 |  Em Andamento   | [ver relatório]() |
 
 ## Backlogs & User Stories
-    
-<div align="center">
+ 
 ### Requisitos Funcionais    
+<div align="center">
 ![product backlog](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg)
+</div>
+
 ### Requisitos Não Funcionais
+<div align="center">
 ![sprint backlog](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg)
+</div>
+
 ### User Stories
+<div align="center">
 ![user stories](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/User%20Stories.jpg)
 </div>
+
   
 → [Voltar ao topo](#topo)
 
