@@ -5,7 +5,7 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">Métricas do time</a> 
 </p>
 
 O projeto se baseia no desenvolvimento de um site para troca de resíduo reciclável por pontos, esses pontos poderão ser trocados por itens de cesta básica aos usuários, os usuários deverão se cadastrar no site e, ao depositar o resíduo em um equipamento, equipamento esse fora do escopo de desenvolvimento, será apresentado a pontuação. Tendo em mente o MVC, a primeira sprint se deu com a criação de um fluxo básico de criação de usuários, login e páginas de navegação. Para isso, foram levantados e validados os requisitos e o protótipo, construindo os serviços e interfaces visando uma entrega de grande valor condizente com as necessidades dos usuários.
