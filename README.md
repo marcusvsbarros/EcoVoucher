@@ -48,7 +48,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
  
 ### Requisitos Funcionais    
 
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg)
+![image]()
 
 
 ### Requisitos Não Funcionais
