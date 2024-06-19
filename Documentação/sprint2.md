@@ -43,7 +43,7 @@ Este requisito se trata de uma página web com o objetivo de o usuário consegui
 
 ### RF 07: Página - Pontos de Coleta
 
-Este requisito se trata de uma página web com o objetivo de informar o usuário sobre os ponts de coleta, essa RF foi remanejado para a Sprint 04, pois não foi possível desenvolver no tempo disponível..
+Este requisito se trata de uma página web com o objetivo de informar o usuário sobre os ponts de coleta, essa RF foi remanejado para a Sprint 03, pois não foi possível desenvolver no tempo disponível.
 
     
 → [Voltar ao topo](#topo)
