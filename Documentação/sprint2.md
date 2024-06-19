@@ -76,7 +76,7 @@ Visando um melhor aproveitamento das habilidades de cada integrante, o time foi 
 
 <div align="center">
     
-![Épicos](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/DevOps%20%C3%89picos.jpg)
+![Épicos](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos%20Spint%202.jpg)
 </div>
     
 <span id="links">
