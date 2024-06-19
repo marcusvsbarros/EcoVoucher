@@ -8,7 +8,7 @@
     <a href="#metricas">Métricas do time</a> 
 </p>
 
-O obsjtivo dessa Sprint é desenvolver um buscador rápido e eficiente para o site, cadastro seguro de parceiros e login rápido e seguro, através de servços externos como conta Google ou Facebook.
+O objetivo dessa Sprint é desenvolver um buscador rápido e eficiente para o site, cadastro seguro de parceiros e login rápido e seguro, através de servços externos como conta Google ou Facebook.
 
 <span id="objetivos">
     
